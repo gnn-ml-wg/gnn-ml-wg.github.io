@@ -1,0 +1,39 @@
+
+.footer-col-1 {
+    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+    width:         calc(60% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
+}
+
+@include media-query($on-laptop) {
+    .footer-col-1,
+    .footer-col-2 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
+.home table tr:nth-child(1) { background: rgb(240,240,255); }
+
+.hero {
+    position: relative;
+    text-align: left;
+    color: white;
+    margin-bottom: 4ex;
+}
+
+.hero h1 {
+    margin-bottom: 0;
+    margin-left: 1ex;
+    margin-right: 1ex;
+    line-height: normal;
+}
+
+.hero .page-heading {
+    position: absolute;
+    bottom: 1ex;
+  }

@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,16 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Global Neutrino Network Machine Learning Working Group
+abbreviation: GNN ML WG
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This WG aims to facilitate the advancement of, and collaboration around,
+  machine learning (ML) methods at neutrino telescope experiments, by providing
+  a forum for openly sharing and discussing results and ideas within ML as
+  it relates to the unique priorities and challenges of neutrino physics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://gnn-ml-wg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: gnn-ml-wg
+mattermost_server_name: GNN ML
+mattermost_id: giqnw3w917nabpzru5suti1ofe
+indico_category_name: GNN » WGs » Machine Learning
+indico_category_id: 15122
+header_pages:
+  - index.md
+  - about.md
+  - news.md
 
 # Build settings
 theme: minima
