@@ -1,5 +1,5 @@
 <ul class="social-media-list">
-  {%- if site.mattermost_id -%}<li><a href="https://mattermost.web.cern.ch/signup_user_complete/?id={{ site.mattermost_id }}"><img src="/assets/mattermost.svg" alt="Mattermost logo"/>&nbsp; <span class="username">{{ site.mattermost_server_name | escape }}</span></a></li>{%- endif -%}
+  {%- if site.mattermost_id -%}<li><a href="https://mattermost.web.cern.ch/{{ site.mattermost_id }}"><img src="/assets/mattermost.svg" alt="Mattermost logo"/>&nbsp; <span class="username">{{ site.mattermost_server_name | escape }}</span></a></li>{%- endif -%}
   {%- if site.indico_category_id -%}<li><a href="https://indico.cern.ch/category/{{ site.indico_category_id }}"><img src="/assets/indico.png" style="max-width: 16px;" alt="Indico logo"/>&nbsp; <span class="username">{{ site.indico_category_name | escape }}</span></a></li>{%- endif -%}
   {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span  class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
 </ul>

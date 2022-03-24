@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gnn-ml-wg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gnn-ml-wg
 mattermost_server_name: GNN ML
-mattermost_id: giqnw3w917nabpzru5suti1ofe
+mattermost_id: gnn-ml
 indico_category_name: GNN » WGs » Machine Learning
 indico_category_id: 15122
 header_pages:
