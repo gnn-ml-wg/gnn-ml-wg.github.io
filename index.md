@@ -33,7 +33,7 @@ If you wish to present your own work, please watch for calls for proposals that 
 
 | Date                           | Presentations                                                                                                                                                             | Indico                                        | Type |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|------|
-|  8 April 2022 <br> 15:00 (CET) | • Activity overview, IceCube: Thorsten Glüsenkamp <br> • Activity overview, KM3NeT: TBD <br> • Open-source simulation: Stephan Meighen-Berger | [Link](https://indico.cern.ch/event/1141191/) | Zoom |
+|  8 April 2022 <br> 15:00 (CET) | • Activity overview, IceCube: Thorsten Glüsenkamp <br> • Activity overview, KM3NeT: Daniel Guderian <br> • Open-source simulation: Stephan Meighen-Berger | [Link](https://indico.cern.ch/event/1141191/) | Zoom |
 
 
 ## Contact
