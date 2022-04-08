@@ -16,7 +16,7 @@ This WG aims to facilitate the advancement of, and collaboration around, machine
 
 Everyone with an interest in the intersection of neutrino/astroparticle phyics and machine learning are more than welcome to join the WG by signing up to our Mattermost forum and join our meetings (see below):
 
-* [Mattermost forum](https://mattermost.web.cern.ch/{{ site.mattermost_id }})
+* [Mattermost forum](https://mattermost.web.cern.ch/signup_user_complete/?id=giqnw3w917nabpzru5suti1ofe)
 * [Indico category](https://indico.cern.ch/category/{{ site.indico_category_id }}/)
 * [GitHub organisation](https://github.com/{{ site.github_username }})
 
