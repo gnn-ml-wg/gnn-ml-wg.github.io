@@ -33,7 +33,8 @@ If you wish to present your own work, please watch for calls for proposals that 
 
 | Date                           | Presentations                                                                                                                                                             | Indico                                        | Type |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|------|
-|  8 April 2022 <br> 15:00 (CEST) | • Activity overview, IceCube: Thorsten Glüsenkamp <br> • Activity overview, KM3NeT: Daniel Guderian <br> • Open-source simulation: Stephan Meighen-Berger | [Link](https://indico.cern.ch/event/1141191/) | Zoom |
+|  10 June 2022 <br> 15:00 (CEST) | • CNN-based reconstruction at low energies - IceCube <br>&nbsp;&nbsp; *Shiqi Yu* <br> • CNN + ResNet-based reconstruction in ARCA - KM3NeT <br>&nbsp;&nbsp; *Bernardino Spisso* <br> • Developing a machine learning-based LArTPC data reconstruction chain - ICARUS <br>&nbsp;&nbsp; *Laura Domine* | [Link](https://indico.cern.ch/event/1168324/) | Zoom |
+|  8 April 2022 <br> 15:00 (CEST) | • Activity overview, IceCube <br>&nbsp;&nbsp; *Thorsten Glüsenkamp* <br> • Activity overview, KM3NeT <br>&nbsp;&nbsp;  *Daniel Guderian* <br> • Open-source simulation <br>&nbsp;&nbsp; *Stephan Meighen-Berger* | [Link](https://indico.cern.ch/event/1141191/) | Zoom |
 
 
 ## Contact
